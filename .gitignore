@@ -1,0 +1,15 @@
+.gradle/
+build/
+local.properties
+proguard/
+*.pro
+*.log
+.idea/
+.navigation/
+captures/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+Thumbs.db
+/app/build/
