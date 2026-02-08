@@ -9,7 +9,7 @@ La app centraliza la información de todas las estaciones de la ciudad, ofrecien
   <img src="principal.jpg" width="200" alt="Pantalla principal">
   <img src="estacion.jpg" width="200" alt="Detalle de Estación">
   <img src="crear_incidencia.jpg" width="200" alt="Crear Incidencia">
-  <img src="estacion_con_reporte.jpg" width="200" alt="Estación con incidencia">
+  <img src="estacion_con_reporte.jpg" width="200" alt="Estación con incidencia"> 
 </p>
 
 
