@@ -42,8 +42,8 @@ El proyecto sigue una arquitectura limpia, separando la capa de presentación de
 * **Mapas:** Implementación híbrida mediante **WebView** para renderizar la ubicación sin dependencias de API Keys nativas externas.
 * **Patrón de Diseño:** MVVM (Model-View-ViewModel) con *Coroutines* para la gestión asíncrona de base de datos e incidencias.
 * **Conectividad:** Consumo de API REST JSON (Open Data Valencia).
-* **Permisos:** * `ACCESS_FINE_LOCATION` (Para encontrar estaciones cercanas).
-    * `CAMERA` (Para las fotos de las incidencias).
+* **Permisos:** `ACCESS_FINE_LOCATION` (Para encontrar estaciones cercanas).
+                * `CAMERA` (Para las fotos de las incidencias).
 
 
 ## Instalación y Despliegue
